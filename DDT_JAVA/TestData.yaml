@@ -1,0 +1,15 @@
+address:
+  zip: '10001'
+  street: 123 Main St
+city: New York
+hobbies:
+- Reading
+- Traveling
+- Swimming
+name: John Doe
+age: 30
+contacts:
+- type: email
+  value: 456@gmail.com
+- {
+  }
