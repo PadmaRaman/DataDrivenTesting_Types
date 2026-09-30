@@ -1,13 +1,11 @@
 address:
   zip: '10001'
-  street: 456 Elm St
-  Door No: Apt 2B
+  street: 123 Main St
 city: New York
 hobbies:
 - Reading
 - Traveling
 - Swimming
-- Cooking
 name: John Doe
 age: 30
 contacts:
@@ -15,4 +13,3 @@ contacts:
   value: 456@gmail.com
 - {
   }
-Name: Jane Doe
